@@ -4,10 +4,16 @@
         <loc>http://www.forge-on.com/</loc>
     </url>
     <url>
-        <loc>http://www.forge-on.com/projects/sense/</loc>
+        <loc>http://www.forge-on.com/projects/car/</loc>
     </url>
     <url>
-        <loc>http://www.forge-on.com/teams/</loc>
+        <loc>http://www.forge-on.com/projects/green-lantern/</loc>
+    </url>
+    <url>
+        <loc>http://www.forge-on.com/projects/intellifuse/</loc>
+    </url>
+    <url>
+        <loc>http://www.forge-on.com/projects/sense/</loc>
     </url>
     <url>
         <loc>http://www.forge-on.com/teams/ai/</loc>
@@ -23,5 +29,14 @@
     </url>
     <url>
         <loc>http://www.forge-on.com/teams/software/</loc>
+    </url>
+    <url>
+        <loc>http://www.forge-on.com/what/</loc>
+    </url>
+    <url>
+        <loc>http://www.forge-on.com/who/</loc>
+    </url>
+    <url>
+        <loc>http://www.forge-on.com/why/</loc>
     </url>
 </urlset>

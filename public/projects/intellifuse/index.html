@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="UTF-8">
-    <title>Leadership Team | Forge-On - The Digital Forge Team in Silicon Valley </title>
+    <title>Smart Infusion Systems | Forge-On - The Digital Forge Team in Silicon Valley </title>
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     
     <link rel="icon" type="image/png" href="/favicon.ico">
@@ -68,7 +68,12 @@
             <div class="toc-sticky">
                 
                 <div class="toc-item">
-                    <a class="subtext" href="http://www.forge-on.com/teams/leaders/#the-leadership-team">The Leadership Team</a>
+                    <a class="subtext" href="http://www.forge-on.com/projects/intellifuse/#intellifuse">Intellifuse</a>
+                </div>
+                
+                
+                <div class="toc-item">
+                    <a class="subtext" href="http://www.forge-on.com/projects/intellifuse/#frameworks-languages-tools">Frameworks&#x2F;Languages&#x2F;Tools</a>
                 </div>
                 
                 
@@ -80,7 +85,42 @@
         <div class="content text">
             
 <div class="heading-text"></div>
-<h1 id="the-leadership-team">The Leadership Team</h1>
+<h1 id="intellifuse">Intellifuse</h1>
+<p>&quot;Intellifuse is designed to be a multi-generational development programme to deliver a, rackable,
+stackable, interoperable, and extendable platform for both Large Volume Pumps and Syringe Pumps&quot;</p>
+<p>Smiths Annual Report 2020</p>
+<p>Intellifuse was a next-generation infusion pump platform that used a touchscreen interface and
+had a sophisticated UI to reduce the likelihood of errors and enable more intelligent programming.</p>
+<p>The Forge Team</p>
+<ul>
+<li>Built the based Board Support Package to move the device from VxWorks to Embedded Linux</li>
+<li>Wrote custom device drivers for the various hardware devices (display, touchscreen, sensors, diagnostics, inter-cpu comms, etc.)</li>
+<li>Integrated the various networking layers (wired, wifi)</li>
+<li>Wrote a deterministic-timing stepper motor control that ran on the embedded M4 MCU</li>
+<li>Simulated the accuracy and precision of that motor control under different demand scenarios</li>
+<li>Developed the UI from scratch using Qt</li>
+<li>Wrote the Motion Control and developed the mechantronics control library SparQ that powers the device on the main CPU</li>
+<li>Implemented a software-based simulator that allows the entire pump software stack to be run on a desktop with a simple recompile.</li>
+<li>Integrated with Pharmguard Server for logging, analytics, and tracing</li>
+<li>Pharmguard's desktop application for downloading drug libraries to simplify programming</li>
+<li>Wrote automated test frameworks, and developed hundreds of automated tests for software QA and compliance</li>
+<li>Wrote system, top level and architectural documentation on the code</li>
+<li>Developed complex diagnostic buffer capture for event replay</li>
+<li>Memory and thread safe message passing in C++ for IPC</li>
+<li>Ran in an Agile fashion, reworking sections of the code as needed to address changing requirements</li>
+<li>Provided manufacturing tooling to image and provision the board</li>
+<li>Provided a secure boot loader for the device</li>
+<li>Developed algorithms for managing signals from the various inputs and applying filters, adjustments and
+other corrections.</li>
+</ul>
+<p>At the time, our team size was ~10 individuals.</p>
+<h1 id="frameworks-languages-tools">Frameworks/Languages/Tools</h1>
+<ul>
+<li>C++ for the application code, UI, machine control, log management, etc.</li>
+<li>C for the M4 delivery control, Linux kernel drivers, etc.</li>
+<li>Python for the test framework and simulation scripting</li>
+<li>Bash for system tooling</li>
+</ul>
 
 
         </div>
