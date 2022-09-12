@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "http://www.forge-on.com"
+base_url = "http://forge-on.com"
 
 title = "Forge-On - The Digital Forge Team in Silicon Valley"
 

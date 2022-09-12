@@ -1,4 +1,2 @@
 User-agent: *
-Disallow:
-Allow: /
-Sitemap: http://www.forge-on.com/sitemap.xml
+Sitemap: http://forge-on.com/sitemap.xml

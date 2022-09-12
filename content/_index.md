@@ -166,7 +166,7 @@ For details on the software team, click [here](@/teams/software.md)
 The program team oversaw and ran dozens of complex projects, ranging from early stage research to
 late stage product development and support.  They employed an Agile methodology and interfaced
 to broader waterfall-style programs within the parent company as needed.  For more
-details on the program team, click [here](@/teams/programs.md)
+details on the program team, click [here](@/teams/programs/index.md)
 
 * agile program management
 * project planning and execution
