@@ -1,0 +1,22 @@
+# The URL the site will be built for
+base_url = "http://www.forge-on.com"
+
+title = "Forge-On - The Digital Forge Team in Silicon Valley"
+
+# Whether to automatically compile all Sass files in the sass directory
+compile_sass = true
+
+# Whether to do syntax highlighting
+# Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
+highlight_code = false
+
+# Whether to build a search index to be used later on by a JavaScript library
+build_search_index = true
+
+theme = "juice"
+
+[extra]
+# Put all your custom variables here
+juice_logo_name = "Forge-On"
+juice_logo_path = "forge_on.svg"
+repository_url = "https://github.com/samitbasu/forge-on"
