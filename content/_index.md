@@ -39,7 +39,7 @@ to detail, robust and cyber-secure solutions, and an agile approach.
 Source: [Smiths annual report 2018](https://www.smiths.com/-/media/files/smiths-group-annual-report-fy2018.pdf)
 
 The Forge founders came from Smiths Detection (formerly Morpho Detection).  You can learn more
-about them [here](@/teams/leaders.md).
+about them [here](@/teams/leaders/index.md).
 
 
 # Our Focus
@@ -179,7 +179,7 @@ details on the program team, click [here](@/teams/programs/index.md)
 The Forge leadership team have decades of experience in a wide range of technologies, including
 explosives detection, RADAR signal processing, medical image reconstruction, enterprise level
 networking, data analytics, and high performance compute.  The leadership team is described 
-[here](@/teams/leaders.md)
+[here](@/teams/leaders/index.md)
 
 
 * system architecture and deisgn

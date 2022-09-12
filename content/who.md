@@ -38,4 +38,4 @@ details on the program team, click [here](@/teams/programs/index.md)
 The Forge leadership team have decades of experience in a wide range of technologies, including
 explosives detection, RADAR signal processing, medical image reconstruction, enterprise level
 networking, data analytics, and high performance compute.  The leadership team is described 
-[here](@/teams/leaders.md)
+[here](@/teams/leaders/index.md)
