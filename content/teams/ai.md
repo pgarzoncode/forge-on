@@ -1,4 +1,6 @@
-+++ title = "AI" weight = 3 +++
++++
+title = "AI"
+weight = 3
 
 # Mission
 The AI team at Smiths Forge develops bespoke algorithms and user interfaces to Smiths product offerings either through new digital products or as enhancements to existing products. For the last two years the team has been almost exclusively devoted to John Crane Sense^TM^, which is a monitoring solution for critical industrial assets with mechanical seals such as pumps and compressors. From all the sensor data continuously arriving in the cloud we aim to re-create the industrial context for the data via a digital twin-like UI, continuously analyzing the streams of data to detect averse conditions before they cause damage to assets or operations, and alert operators via email and SMS. 
@@ -27,6 +29,7 @@ As an AI scientist at the Smiths Digital Forge, Ryan focuses on algorithm develo
 Ryan’s background is in astrophysics, with a specialty in the field of galaxy evolution. After completing his Ph.D. he held a number of research fellowships before joining the faculty at Texas A&M University where he taught, supervised Ph.D. students, and helped lead the extragalactic research group.
 
 ## Xiao Han - AI Scientist
+{{photo(id="xiao.jpg")}}
 Xiao joined the Forge in 2019 after receiving her master’s degree in Data Science from the University of San Francisco and has grown into the AI team’s own full stack scientist/engineer in the past 3 years. She’s worked on projects ranging from architecting and building an end-to-end data processing tool with Python and PostgreSQL, developing algorithms combining classical methods and machine learning algorithms for highly regulated industries, building REST APIs, and creating customized user interfaces for the Sense product using React and Typescript. She’s particularly passionate for conquering challenges and discovering innovative ways to convey the beauty of data science to more people. When not at work, she enjoys challenging herself both mentally and physically in CrossFit and Olympic weightlifting, as well as exploring the nature with her dog Relu, our part-time office therapist.
 
 ## Spencer Harrison - Data Engineer
