@@ -4,6 +4,20 @@ weight = 3
 +++
 
 # Sondre Skatter - Chief AI Scientist
+{{photo(id="sondre.jpg")}}
+In his current role as Chief AI Scientist in Smiths Digital Forge Sondre Skatter is responsible for introducing cutting-edge algorithms into Smiths Group product offerings and in driving Smiths’ digitization initiative. Whether based on Machine Learning, or physics and models, the algorithms seek to squeeze more performance and functionality out of existing Smiths products, as well as imagine new product ideas. Sondre Skatter got his master's in physics at the Norwegian University of Science and Technology in 1994 and a PhD in at Norwegian University of Life Sciences in 1998. He has mainly worked in the field of explosive detection across multiple technologies applying physics and algorithms to improve performance of these systems. 
+
+Sondre has 15+ patents issued and 11 papers published in peer-reviewed journals. Sondre has three daughters, a ridgeback, and loves rock climbing, trail running and playing music in various bands and jam sessions.
+
+Skills
+
+* Multidisciplinary technology leadership
+* Algorithm system design and architecture
+* Physics, modeling, statistics
+* Machine Learning
+* Advanced, representative user interfaces and data displays
+* Detection algorithms and systems
+* Software development (C++/Python)
 
 # Pedro Garzon - Chief Engineer
 
