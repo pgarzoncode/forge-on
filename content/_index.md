@@ -114,7 +114,7 @@ Source: [Smiths Annual Report 2021](https://www.smiths.com/-/media/files/smiths-
 
 A dynamic group of scientists and engineers that applied their skills to the problems of 
 modelling complex data coming from assets in the oil and gas industry.  For the details
-on that team, click [here](@/teams/ai.md).
+on that team, click [here](@/teams/ai/index.md).
 
 * statistical modelling
 * state-based designs
