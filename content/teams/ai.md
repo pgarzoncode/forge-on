@@ -1,6 +1,7 @@
 +++
 title = "AI"
 weight = 3
++++
 
 # Mission
 The AI team at Smiths Forge develops bespoke algorithms and user interfaces to Smiths product offerings either through new digital products or as enhancements to existing products. For the last two years the team has been almost exclusively devoted to John Crane Sense^TM^, which is a monitoring solution for critical industrial assets with mechanical seals such as pumps and compressors. From all the sensor data continuously arriving in the cloud we aim to re-create the industrial context for the data via a digital twin-like UI, continuously analyzing the streams of data to detect averse conditions before they cause damage to assets or operations, and alert operators via email and SMS. 
