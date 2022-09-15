@@ -32,6 +32,10 @@ Ryan’s background is in astrophysics, with a specialty in the field of galaxy 
 {{photo(id="xiao.jpg")}}
 Xiao joined the Forge in 2019 after receiving her master’s degree in Data Science from the University of San Francisco and has grown into the AI team’s own full stack scientist/engineer in the past 3 years. She’s worked on projects ranging from architecting and building an end-to-end data processing tool with Python and PostgreSQL, developing algorithms combining classical methods and machine learning algorithms for highly regulated industries, building REST APIs, and creating customized user interfaces for the Sense product using React and Typescript. She’s particularly passionate for conquering challenges and discovering innovative ways to convey the beauty of data science to more people. When not at work, she enjoys challenging herself both mentally and physically in CrossFit and Olympic weightlifting, as well as exploring the nature with her dog Relu, our part-time office therapist.
 
+## Laurel Haskins - AI Scientist
+
+## Samuel Heppelmann - AI Scientist
+
 ## Spencer Harrison - Data Engineer
 {{photo(id="spencer.jpg")}}
 Spencer is a data engineer at the Digital Forge, developing and maintaining business tools hosted in the cloud. He focuses on pipelines and monitors, specializing in manufacturing, shipping, and industry. He works closely with the data science team at the Forge, providing standalone tools that integrate with the existing infrastructure. He extended the functionality of a watchdog system to track and report uptime and failure modes for edge devices, cloud service lapses, and faults in applications. In the past he has worked on tools for shipping and order fulfillment, providing the digital infrastructure to provide fulfillment costs competing with major companies. 
