@@ -1,7 +1,10 @@
-+++ title = "Software" weight = 3 +++
++++
+title = "Software Team" 
+weight = 3 
++++
 
 # Responsibilities
-The Software group at the Forge is resposible for developing and maintaining all the software components of the IoT stack. This includes
+The Software group at the Forge is responsible for developing and maintaining all the software components of the IoT stack. This includes
 
 - embedded software including embedded gateways and sensors
 - managing and automating much of the SDLC
@@ -21,7 +24,7 @@ Given the spectrum of technologies and tools used in the IoT stack, the team has
 ## Natarajan Subramanian - Chief Architect
 {{photo(id="tbd.jpg")}}
 Natarajan Subramanian currently manages the software group and is also responsible for co-developing and implementing software architectures required in our IoT solutions. Prior to working at Smiths, he worked at Morpho Detection and GE Homeland Security as the Chief Software Architect and worked on the architecture and implementation of their CT products and network solutions. He has a Masters in Computer Science from the University of Mysore, India and has worked as a technical lead at HP and a scientist at Defence R&D labs. 
-Natarajan is experinced in embedded development, middleware, databases, networking and cloud development. As required by his current role, he has implemented solutions in C, C++, golang, rust, typescript or python. He has also put together highly skilled software teams and automated large parts of the SDLC. 
+Natarajan is experienced in embedded development, middleware, databases, networking and cloud development. As required by his current role, he has implemented solutions in C, C++, golang, rust, typescript or python. He has also put together highly skilled software teams and automated large parts of the SDLC. 
 
 [LinkedIn](linkedin.com/in/natarajansubramanian)
 
@@ -50,7 +53,7 @@ David is skilled in multiple languages from golang, C++, python, rust and typesc
 {{photo(id="tbd.jpg")}}
 Sean Curry has worked on the entire web stack at Smiths and has been the lead software engineer responsible for the design and rollout of many of our web solutions. He has been involved in UX design discussions with the customer, requirements gathering, rapid prototyping and putting together solutions and workflows that meet core customer needs. 
 Sean has worked at Smiths Forge for over 5 years and before that he worked at Smiths Detection and IBM.
-Sean has implemented solutions using multiple languages and platforms - golang, typescript and some rust. He is proficient in anglar and react and has specialized in writing custom plugins and dashboards in Grafana which is a de-facto standard in open source telemetry visualization.
+Sean has implemented solutions using multiple languages and platforms - golang, typescript and some rust. He is proficient in Angular and React and has specialized in writing custom plugins and dashboards in Grafana which is a de-facto standard in open source telemetry visualization.
 [LinkedIn](www.google.com)
 
 ## Bob Lo - Principal Cloud Engineer
