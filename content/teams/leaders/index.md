@@ -89,7 +89,7 @@ Skills
 
 # Paul Ramsey - Operations Director
 
-{{photo(id="paul_photo.jpg")}}
+{{photo(id="paul_photo.png")}}
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://linkedin.com/in/ramsey03)
 
