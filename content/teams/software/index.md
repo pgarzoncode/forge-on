@@ -26,7 +26,7 @@ Given the spectrum of technologies and tools used in the IoT stack, the team has
 
 ## Natarajan Subramanian - Chief Architect
 
-{{photo(id="natarajan-subramanian.jpg")}}
+{{photo(id="natarajan_photo.jpg")}}
 
 Natarajan Subramanian currently manages the software group and is also responsible for co-developing and implementing software architectures required in our IoT solutions. Prior to working at Smiths, he worked at Morpho Detection and GE Homeland Security as the Chief Software Architect and worked on the architecture and implementation of their CT products and network solutions. He has a Masters in Computer Science from the University of Mysore, India and has worked as a technical lead at HP and a scientist at Defence R&D labs.
 
