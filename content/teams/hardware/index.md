@@ -67,7 +67,7 @@ Skills:
 
 ## Kavitha Narayana - Certification Program Manager
 
-# Experties:
+# Expertise:
 
 ## EMI designs and compliance 
 Design and in-house testing for FCC Title 47 CFR Part 15B before submitting to recognized lab validation testing. 
