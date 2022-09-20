@@ -21,20 +21,11 @@ Skills
 * Detection algorithms and systems
 * Software development (C++/Python)
 
-<<<<<<< HEAD
-# Pedro Garzon - Chief Engineer 
-{{photo(id="pedroG.jpg")}}
-
-In his current role at the Smiths Digital Forge, Pedro works with engineering teams from the different divisions of Smiths to define product requirements, identifies enabling technologies, develops agile plans to prove the application of new technologies, and validates their commercial value. Since joining the Smiths Digital Forge, Pedro has architected, designed, and managed various products in an agile hardware development process. At the same time, he has assembled a team of very talented and passionate engineers that lead the products through technology demonstrators, proof of concepts, prototypes, pilots, certification (safety, EMC, Environmental), set up production, and deployment. 
-=======
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](linkedin.com/in/sondre-skatter-0a1b62)
-
 # Pedro Garzon - Chief Engineer
 
 {{photo(id="pedro_photo.jpg")}}
 
 Pedro Garzon is the Chief Systems Engineer at the Smiths Digital Forge. He has worked with engineering teams from the different divisions of Smiths to define product requirements, identify enabling technologies, and develop agile plans to prove the application of new technologies and validate their commercial value. Since joining the Smiths Digital Forge, Pedro has architected, designed, and managed various products in an agile hardware development process. At the same time, he has assembled a team of very talented and passionate engineers that lead the products through technology demonstrators, proof of concepts, prototypes, pilots, certification (safety, EMC, Environmental), set up production, and deployment.
->>>>>>> 9ed2917c5387c6158940860332ebc92143c1fc86
 
 Before Smiths Digital Forge, Pedro worked at Smiths Detection, where he led the hardware development of the CTX 5800 and the CTX next-generation system, a next-generation CT scanner. He holds eight patents and applications in different fields CT, methane leak detection, and IoT.
 
@@ -45,14 +36,12 @@ Skills
 * System design/architecture of complex digital enable products
 * Thermal management
 * Interdisciplinary engineering
-<<<<<<< HEAD
 * Transition research/prototype design to production 
 * Guide and mentor engineers in different stages of their careers
 * Leadership of multidisciplinary groups 
 * Knowledgeable in multiple manufacturing process 
 * Rapid prototyping and proof of concept 
 * Led the certification and developed a process to ensure global market access to Smiths Digital Forge's products (Safety, EMC, Environmental, cellular network). 
-=======
 * Transition research/prototype design to production
 * Mentoring young Engineers
 * Leadership of multidisciplinary groups
@@ -60,7 +49,6 @@ Skills
 * Rapid prototyping and proof of concept
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/pedro-garzon-377aba1)
->>>>>>> 9ed2917c5387c6158940860332ebc92143c1fc86
 
 # Natarajan Subramanian - Chief Software Architect
 
