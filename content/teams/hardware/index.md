@@ -60,23 +60,23 @@ Design and in-house testing for FCC Title 47 CFR Part 15B before submitting to r
 Integrated electronics and product design 
 [US patent](https://patents.google.com/patent/US20220214706A1/en?oq=US2022214706+AA)	
 
-{{photo(id="smaug_photo.jpg")}}
+{{wide_photo(id="smaug_photo.jpg")}}
 
 ## Ruggedization of sensitive electronics (LP in an image with one of us)
 Hazloc edge device with cell, wifi, and BLE capabilities. 
 
-{{photo(id="LP_photo.jpg")}}
+{{wide_photo(id="LP_photo.jpg")}}
 
 
 ## Low power electronics and system integration: sensors, secure devices, etc. 
 Image of Air quality sensor design, test, and validation. 
 
-{{photo(id="GL_photo.jpg")}}
+{{wide_photo(id="GL_photo.jpg")}}
 
 ## System testing and compliance 
 Drop, IP, thermal, and HAST and HALT testing. 
 
-{{photo(id="IP_test.jpg")}}
+{{wide_photo(id="IP_test.jpg")}}
 
 ## Automation testing 
 Functional tests built and integrated  into the regression infrastructure. 
