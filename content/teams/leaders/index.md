@@ -21,11 +21,13 @@ Skills
 * Detection algorithms and systems
 * Software development (C++/Python)
 
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/sondre-skatter-0a1b62/)
+
 # Pedro Garzon - Chief Engineer
 
 {{photo(id="pedro_photo.jpg")}}
 
-Pedro Garzon is the Chief Systems Engineer at the Smiths Digital Forge. He has worked with engineering teams from the different divisions of Smiths to define product requirements, identify enabling technologies, and develop agile plans to prove the application of new technologies and validate their commercial value. Since joining the Smiths Digital Forge, Pedro has architected, designed, and managed various products in an agile hardware development process. At the same time, he has assembled a team of very talented and passionate engineers that lead the products through technology demonstrators, proof of concepts, prototypes, pilots, certification (safety, EMC, Environmental), set up production, and deployment.
+In his current role at the Smiths Digital Forge, Pedro works with engineering teams from the different divisions of Smiths to define product requirements, identifies enabling technologies, develops agile plans to prove the application of new technologies, and validates their commercial value. Since joining the Smiths Digital Forge, Pedro has architected, designed, and managed various products in an agile hardware development process. At the same time, he has assembled a team of very talented and passionate engineers that lead the products through technology demonstrators, proof of concepts, prototypes, pilots, certification (safety, EMC, Environmental), set up production, and deployment. 
 
 Before Smiths Digital Forge, Pedro worked at Smiths Detection, where he led the hardware development of the CTX 5800 and the CTX next-generation system, a next-generation CT scanner. He holds eight patents and applications in different fields CT, methane leak detection, and IoT.
 
