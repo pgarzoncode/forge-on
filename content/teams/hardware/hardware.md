@@ -17,7 +17,6 @@ The hardware team constantly champions an iterative process that allows a shorte
 
 ## Pedro Garzon - Chief System Engineer
 
-<img src="pedro_photo.jpg" alt="pedro" width="200"/>
 {{photo(id="pedro_photo.jpg")}}
 
 In his current role at the Smiths Digital Forge, Pedro works with engineering teams from the different divisions of Smiths to define product requirements, identifies enabling technologies, develops agile plans to prove the application of new technologies, and validates their commercial value. Since joining the Smiths Digital Forge, Pedro has architected, designed, and managed various products in an agile hardware development process. At the same time, he has assembled a team of very talented and passionate engineers that lead the products through technology demonstrators, proof of concepts, prototypes, pilots, certification (safety, EMC, Environmental), set up production, and deployment. 
@@ -61,26 +60,22 @@ Design and in-house testing for FCC Title 47 CFR Part 15B before submitting to r
 Integrated electronics and product design 
 [US patent](https://patents.google.com/patent/US20220214706A1/en?oq=US2022214706+AA)	
 
-<img src="smaug_photo.jpg" alt="smaug" width="200"/>
 {{photo(id="smaug_photo.jpg")}}
 
 ## Ruggedization of sensitive electronics (LP in an image with one of us)
 Hazloc edge device with cell, wifi, and BLE capabilities. 
 
-<img src="LP_photo.jpg" alt="LP" width="200"/>
 {{photo(id="LP_photo.jpg")}}
 
 
 ## Low power electronics and system integration: sensors, secure devices, etc. 
 Image of Air quality sensor design, test, and validation. 
 
-<img src="GL_photo.jpg" alt="GL" width="200"/>
 {{photo(id="GL_photo.jpg")}}
 
 ## System testing and compliance 
 Drop, IP, thermal, and HAST and HALT testing. 
 
-<img src="IP_test.jpg" alt="IP" width="400"/>
 {{photo(id="IP_test.jpg")}}
 
 ## Automation testing 
