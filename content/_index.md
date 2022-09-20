@@ -150,7 +150,7 @@ The software team covered the full stack, starting at the device level in embedd
 provided the software technology to bring the data all the way to the cloud for analysis and
 review in a standard web browser.  They also handled the automated build, regression testing,
 software process, and general architecture of the products being developed at the Forge.
-For details on the software team, click [here](@/teams/software.md)
+For details on the software team, click [here](@/teams/software/index.md)
 
 * embedded
 * user interface (web full stack)

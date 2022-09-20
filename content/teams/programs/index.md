@@ -4,7 +4,9 @@ weight = 2
 +++
 
 # Paul Ramsey - Operation Director 
+
 {{photo(id="paul_photo.png")}}
+
 * EE, IT, and MBA Degrees
 * 25 yrs. managing projects and teams 
 * 15 yrs. at Smiths Group plc
