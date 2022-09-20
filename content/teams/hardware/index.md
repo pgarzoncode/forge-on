@@ -43,6 +43,22 @@ Skills
 
 ## Felicia Fran - Mechanical Engineer II
 
+Felicia is a Mechanical Engineer at the Digital Forge where she leads sensor development projects. She has experience in taking ideas or concepts and turning them into viable products. In her current role, she is responsible for the mechanical design of the sensor products and collaborates with other members of the team to integrate electrical subassemblies, perform verification and validation and oversee product certification. Additionally, she works closely with manufacturers to ensure parts are manufacturable and to streamline the assembly process.
+
+Prior to working at the Digital Forge, Felicia worked as a Mechanical Design Engineer at a local design firm. Felicia holds a Masters Degree in Robotics and Mechatronics and a Bachelors Degree in Mechanical Engineering. Outside of work, she enjoys playing basketball with the team, discovering new cafes and snowboarding in the winter.
+
+Skills:
+* Mechanical design and DFM (Design For Manufacturing)
+* Finite Element Analysis
+* Proof of Concept generation
+* DoE - requirement and performance testing
+* Integration of electromechanical subassemblies into a single product/solution
+* Designing and building mechatronic systems
+* Knowledge of hazardous location certification process and requirements
+* Interdisciplinary collaboration
+
+[LinkedIn](https://www.linkedin.com/in/ffrans04/)
+
 ## Sumeet Chandra - Electrical Engineer 
 
 ## Alex Esclamado - Hardware Test Engineer   
