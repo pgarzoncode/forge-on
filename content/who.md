@@ -16,7 +16,7 @@ on that team, click [here](@/teams/ai/index.md).
 Much of the digital technology at the Forge required a physical hardware component.  Whether
 this was packaging and integration of sensors, custom data acquisition systems, PCBs or 
 thermal management for embedded compute devices, this team handled it all, along with
-testing and customer support.  For the details on the hardware team, click [here](@/teams/hardware.md).
+testing and customer support.  For the details on the hardware team, click [here](@/teams/hardware/index.md).
 
 ## Software Team
 
