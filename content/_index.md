@@ -13,6 +13,7 @@ work, our collaborative and caring culture, and our innovative and energized spi
 It is our hope that you find great people here that would fit in your own organization 
 and help you forge the future.
 
+{{hero_photo(id="forge-space.jpeg")}}
 
 # Our Mission
 
@@ -21,6 +22,7 @@ digital technology.  This required working in highly regulated industries (such 
 medical, and energy), and required high quality engineering with meticulous attention
 to detail, robust and cyber-secure solutions, and an agile approach.  
 
+{{hero_photo(id="forge-devs.jpeg")}}
 
 # Our Origin
 
@@ -41,6 +43,8 @@ Source: [Smiths annual report 2018](https://www.smiths.com/-/media/files/smiths-
 The Forge founders came from Smiths Detection (formerly Morpho Detection).  You can learn more
 about them [here](@/teams/leaders/index.md).
 
+
+{{hero_photo(id="maker-space.jpeg")}}
 
 # Our Focus
 
@@ -107,8 +111,10 @@ From the Smiths Annual Report 2021:
 
 Source: [Smiths Annual Report 2021](https://www.smiths.com/-/media/files/smiths-annual-report-2021-report.pdf)
 
-# Our People
 
+{{hero_photo(id="maker-space-in-use.jpeg")}}
+
+# Our People
 
 ## Artificial Intelligence Team
 
@@ -188,6 +194,8 @@ networking, data analytics, and high performance compute.  The leadership team i
 * cybersecure data transmission
 * cloud infrastructure and design
 * data analytics and algorithm 
+
+{{hero_photo(id="car-photo.jpeg")}}
 
 # Our Accomplishments
 
@@ -321,6 +329,9 @@ Key Forge developed technology elements
 - Cloud platform for telemetry receipt and processing
 
 More details on Green Lantern are available [here](@/projects/green_lantern.md)
+
+{{photo(id="competition-trophy.jpeg")}}
+
 
 # Our Future
 
