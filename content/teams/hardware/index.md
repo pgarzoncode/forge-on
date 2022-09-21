@@ -11,10 +11,9 @@ requirements.
 
 The hardware team constantly champions an iterative process that allows a shorter time to market and utilizes customer feedback to help guide the design and product definition—fostering digital transformation and innovation within Smiths. 
 
-
-
 # People 
 
+{{photo(id="team_photo.jpg")}
 ## Pedro Garzon - Chief System Engineer
 
 {{photo(id="pedro_photo.jpg")}}
@@ -43,6 +42,8 @@ Skills
 
 ## Felicia Fran - Mechanical Engineer II
 
+{{photo(id="felicia_photo.jpg")}
+
 Felicia is a Mechanical Engineer at the Digital Forge where she leads sensor development projects. She has experience in taking ideas or concepts and turning them into viable products. In her current role, she is responsible for the mechanical design of the sensor products and collaborates with other members of the team to integrate electrical subassemblies, perform verification and validation and oversee product certification. Additionally, she works closely with manufacturers to ensure parts are manufacturable and to streamline the assembly process.
 
 Prior to working at the Digital Forge, Felicia worked as a Mechanical Design Engineer at a local design firm. Felicia holds a Masters Degree in Robotics and Mechatronics and a Bachelors Degree in Mechanical Engineering. Outside of work, she enjoys playing basketball with the team, discovering new cafes and snowboarding in the winter.
@@ -61,7 +62,22 @@ Skills:
 
 ## Sumeet Chandra - Electrical Engineer 
 
-## Alex Esclamado - Hardware Test Engineer   
+## Alex Esclamado - Hardware Test Engineer II   
+
+{{photo(id="alex_photo.jpg")}
+
+Alex Esclamado is the hardware test engineer at the Forge, joining the team in June 2021. He works closely with the product managers and development team to create, execute, and document test cases for newly developed software features and to ensure full hardware functionality. He also creates user manuals for Forge products and manufacturing tools in addition to test reports, release notes, and troubleshooting guides. He established a technical support system and serves as the first point of contact for any parent company feedback, field installation issues, development requests, or manufacturing difficulties. Lastly, he assembles and maintains multiple test setups for the various Forge products for internal development.
+Alex graduated from Loyola Marymount University with a BS in Electrical Engineering and a computer engineering emphasis. His primary interests are in computer hardware. Outside of work, he enjoys building custom mechanical keyboards, indoor rock climbing, and watching basketball.
+Skills:
+* Creating documentation for manufacturing, testing, and customer use
+* Using project management and testing tools such as Jira/Confluence/Zephyr Squad/BitBucket
+* Solid understanding of system functionality from data acquisition to cloud processing
+* Hardware and software integration and validation testing
+* Experience with lab equipment including oscilloscopes, multimeters, and function generators
+* Experience with Linux, Windows and Mac operating systems
+* Familiarity with Python, C, and Markdown
+
+[LinkedIn](https://www.linkedin.com/in/alex-esclamado-19571b17b/)
 
 ## Bryant Chin - Software Test Engineer 
 
@@ -81,24 +97,67 @@ Integrated electronics and product design
 ## Ruggedization of sensitive electronics (LP in an image with one of us)
 Hazloc edge device with cell, wifi, and BLE capabilities. 
 
-{{wide_photo(id="LP_photo.jpg")}}
+{{wide_photo(id="LP1_photo.jpg")}}
 
+DAC for HazLoc environments. 
+{{wide_photo(id="tetherwork_photo.jpg")}}
 
 ## Low power electronics and system integration: sensors, secure devices, etc. 
 Image of Air quality sensor design, test, and validation. 
 
 {{wide_photo(id="GL_photo.jpg")}}
-
 ## System testing and compliance 
 Drop, IP, thermal, and HAST and HALT testing. 
 
 {{wide_photo(id="IP_test.jpg")}}
-
 ## Automation testing 
 Functional tests built and integrated  into the regression infrastructure. 
 
+{{wide_photo(id="autotest_photo.jpg")}}
 
 ## Global certifications (link to IEC cert and mentioned CE, UKCA, INMETRO, PTCRB, ANATEL, CNC, Saudi, others)
 Global market access certification includes safety (62368, HazLoc), EMC (FCC, CE), environmental (RoHS, WEE, REACH, prop65), and international radio certifications (FCC, Anatel CNC, CE, UKCA, SASO).
 
-The official IECEx certificate, IECEx UL 22.0027X Issue 0, is available on the [IECEx website](https://www.iecex-certs.com/#/home)
+{{wide_photo(id="tether2_photo.jpg")}}
+
+North America:
+* PTCRB 90566
+* PTCRB 104804
+* E508566-Vol2-20220627
+* E508566-Vol2-Sec1-20210405
+* US-39049-M1-UL
+* US-40072-UL-20220510
+* E508566-Vol2-Sec2-20220627
+* E526569-Vol1-Sec1-20220503
+* E508566-Vol1-Sec1-20190705
+* E508566-Vol1-Sec1-20210731
+* E508566-20200720
+
+Europe:
+* CE TEC 
+* UL 22 ATEX 2640X Rev. 0
+* UL 22 ATEX 2681X Rev. 0
+* UL 22 ATEX 2681X Rev. 1
+* UL 21 ATEX 2484X Rev. 0
+* UL 21 ATEX 2545X Rev. 0
+
+List of IECEx (Global) certificates:
+* IECEx_UL_21.0048X_001
+* BR5269-Vol1-Sec1-20220510
+* IECEx UL 22.0005X
+* IECEx_UL_21.0042_000
+* IECEx UL 21.0049X
+* Colombia - RETIE
+* Chile - Subsecretaria de Telecomunicaciones No 3041
+
+IECEx certificates available here: [IECEx website](https://www.iecex-certs.com/#/home)
+
+Environmental:
+* RoHS 2011/65/EU
+* RoHS 2015/863  
+* REACH 1907/2006 
+* REACH 1907/2006 
+* POP 2019/1021 
+* Proposition 65 
+* Canada Prohibition
+* TSCA Compliant
