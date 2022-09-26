@@ -40,7 +40,18 @@ Skills
 
 ## Kevin Olson - Mechanical Engineer II
 
-## Felicia Fran - Mechanical Engineer II
+Skills:
+
+* Electro-Mechanical Design (including SolidWorks)
+* Applied knowledge of sensor imaging systems, products, and exploitation processes
+* Systems engineering lifecycle to include independent testing and data verification
+* Master in key development tools and design standards: 3D CAD, Finite Element Analysis, Tolerances, Manufacturing Principles, Interference Checks
+* Leader in developing and validating complex mechanical products that are required across all Business Units.
+* Directs mechanical design and system architecture layout
+* Partners with Chief Engineers to review and clarify design requirements and define the appropriate mechanical/thermal architecture.
+* Experience with certifying bodies and certification processes (e.g. UL, ATEX, IECEx, CSA, FCC, EMI)
+
+# Felicia Fran - Mechanical Engineer II
 
 {{photo(id="felicia_photo.jpg")}
 
@@ -62,6 +73,17 @@ Skills:
 
 ## Sumeet Chandra - Electrical Engineer 
 
+Skills:
+
+* Experience in design of embedded systems using various microcontrollers, FPGA’s, ADC’s and DAC’s 
+* Experience working with digital/analog mixed signal circuit design and simulation tools, such as Altium, or similar 
+* Proficiency with key RF components including LNAs, mixers, synthesizers, PLL’s, filters, demodulators, AGC’s, power amplifiers, and switches.
+* Extensive knowledge of design techniques
+* Experience with certifying bodies and certification processes (e.g. UL, ATEX, IECEx, CSA, FCC, EMI)
+* Experience with performance, reliability, and regulatory testing
+* Work with hardware engineers PCB designers and fabricators for development and sustainability of actual products.
+* Implement signal and power system layout on the PCB and meet electrical design targets.
+* Review design with ME team and vendors to ensure that design meet DFM and DFA requirements and release design on time.
 ## Alex Esclamado - Hardware Test Engineer II   
 
 {{photo(id="alex_photo.jpg")}
@@ -81,7 +103,34 @@ Skills:
 
 ## Bryant Chin - Software Test Engineer 
 
+Skills:
+
+* Assures product and process quality by designing testing methods; testing finished- product and process capabilities; establishing standards; confirming manufacturing processes.
+* Assist other department engineers in creating practical demonstrations of proposed solutions and demonstrating them to other members of the team
+* You will be responsible for creating, maintaining and improving automated testing frameworks/infrastructure and tools used to qualify our cloud platform
+* Coordination with cross-functional test engineering teams to ensure adequate test coverage of complex features is expected
+* Cross-functional definition of test requirements for high-volume manufacturing processes
+* Participate in product design reviews, code reviews, and test coverage reviews
+* Automate test sequences and bring up at remote sites
+* Responsible for designing and maintaining manual test plan used in the testing of data acquisition systems and applications
+
+
 ## Kavitha Narayana - Certification Program Manager
+
+Skills: 
+
+* Responsible for all regulatory and compliance aspects of the company's product portfolio
+* Work and advise a global development team on product design requirements/review related to associated Wireless, EMC, and product safety standards
+* Managed all product labeling and documentation requirements are met and documented
+* Ensure close coordination of multiple parties, governmental authorities and other responsible agencies involved in a compliance project to successfully achieve the compliance goals and release the product in the market
+* Collaborate with R&D to establish best practices pertaining to regulatory compliance
+* Management and interpretation of international regulatory standards
+* Work with regulatory agencies globally to ensure compliance of all pertinent products
+* Maintain all required documentation for global regulatory product compliance and ensure distribution to all necessary parties
+* Be a professional resource for R&D by participating in the product engineering process and overseeing any aspects of the designs that will affect regulatory compliance
+* Perform and document pre-agency safety and EMC compliance testing
+* Provide technical support to PM's, Creative Services, QA, and Engineering as needed
+* Ensure that compliance information on all affected products is current and to standards requirements i.e. product literature, carton artwork, product labeling, silkscreens, etc
 
 # Expertise:
 
