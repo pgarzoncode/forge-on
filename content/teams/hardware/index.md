@@ -11,9 +11,11 @@ requirements.
 
 The hardware team constantly champions an iterative process that allows a shorter time to market and utilizes customer feedback to help guide the design and product definition—fostering digital transformation and innovation within Smiths. 
 
+{{hero_photo(id="team_photo.jpg")}}
+
+
 # People 
 
-{{photo(id="team_photo.jpg")}
 ## Pedro Garzon - Chief System Engineer
 
 {{photo(id="pedro_photo.jpg")}}
@@ -53,7 +55,8 @@ Skills:
 
 # Felicia Fran - Mechanical Engineer II
 
-{{photo(id="felicia_photo.jpg")}
+{{photo(id="felicia_photo.jpg")}}
+
 
 Felicia is a Mechanical Engineer at the Digital Forge where she leads sensor development projects. She has experience in taking ideas or concepts and turning them into viable products. In her current role, she is responsible for the mechanical design of the sensor products and collaborates with other members of the team to integrate electrical subassemblies, perform verification and validation and oversee product certification. Additionally, she works closely with manufacturers to ensure parts are manufacturable and to streamline the assembly process.
 
@@ -86,7 +89,9 @@ Skills:
 * Review design with ME team and vendors to ensure that design meet DFM and DFA requirements and release design on time.
 ## Alex Esclamado - Hardware Test Engineer II   
 
-{{photo(id="alex_photo.jpg")}
+
+{{photo(id="alex_photo.jpg")}}
+
 
 Alex Esclamado is the hardware test engineer at the Forge, joining the team in June 2021. He works closely with the product managers and development team to create, execute, and document test cases for newly developed software features and to ensure full hardware functionality. He also creates user manuals for Forge products and manufacturing tools in addition to test reports, release notes, and troubleshooting guides. He established a technical support system and serves as the first point of contact for any parent company feedback, field installation issues, development requests, or manufacturing difficulties. Lastly, he assembles and maintains multiple test setups for the various Forge products for internal development.
 Alex graduated from Loyola Marymount University with a BS in Electrical Engineering and a computer engineering emphasis. His primary interests are in computer hardware. Outside of work, he enjoys building custom mechanical keyboards, indoor rock climbing, and watching basketball.
@@ -141,33 +146,41 @@ Design and in-house testing for FCC Title 47 CFR Part 15B before submitting to r
 Integrated electronics and product design 
 [US patent](https://patents.google.com/patent/US20220214706A1/en?oq=US2022214706+AA)	
 
-{{wide_photo(id="smaug_photo.jpg")}}
+
+{{hero_photo(id="smaug_photo.jpg")}}
+
 
 ## Ruggedization of sensitive electronics (LP in an image with one of us)
 Hazloc edge device with cell, wifi, and BLE capabilities. 
 
-{{wide_photo(id="LP1_photo.jpg")}}
+
+{{hero_photo(id="LP1_photo.jpg")}}
+
 
 DAC for HazLoc environments. 
-{{wide_photo(id="tetherwork_photo.jpg")}}
+
+{{hero_photo(id="tetherwork_photo.jpg")}}
 
 ## Low power electronics and system integration: sensors, secure devices, etc. 
 Image of Air quality sensor design, test, and validation. 
 
-{{wide_photo(id="GL_photo.jpg")}}
+{{hero_photo(id="GL_photo.jpg")}}
+
+
 ## System testing and compliance 
 Drop, IP, thermal, and HAST and HALT testing. 
 
 {{wide_photo(id="IP_test.jpg")}}
+
 ## Automation testing 
 Functional tests built and integrated  into the regression infrastructure. 
 
-{{wide_photo(id="autotest_photo.jpg")}}
+{{hero_photo(id="autotest_photo.jpg")}}
 
 ## Global certifications (link to IEC cert and mentioned CE, UKCA, INMETRO, PTCRB, ANATEL, CNC, Saudi, others)
 Global market access certification includes safety (62368, HazLoc), EMC (FCC, CE), environmental (RoHS, WEE, REACH, prop65), and international radio certifications (FCC, Anatel CNC, CE, UKCA, SASO).
 
-{{wide_photo(id="tether2_photo.jpg")}}
+{{hero_photo(id="tether2_photo.jpg")}}
 
 North America:
 * PTCRB 90566
